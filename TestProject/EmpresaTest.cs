@@ -16,13 +16,13 @@ namespace TestProject
             ServiceEmpresa.Empresa EmpresaCreado = proxy.Registro(new ServiceEmpresa.Empresa
             {
                 Nombre = "inkafarma",
-                Direccion = "Av Canada 12",
+                Direccion = "Av Canada 1240",
                 Telefono = "987456325",
                 RUC = "11145263987",
                 Estado = "0"
             });
             Assert.AreEqual("inkafarma", EmpresaCreado.Nombre);
-            Assert.AreEqual("Av Canada 12", EmpresaCreado.Direccion);
+            Assert.AreEqual("Av Canada 1240", EmpresaCreado.Direccion);
             Assert.AreEqual("987456325", EmpresaCreado.Telefono);
             Assert.AreEqual("11145263987", EmpresaCreado.RUC);
             Assert.AreEqual("0", EmpresaCreado.Estado);
