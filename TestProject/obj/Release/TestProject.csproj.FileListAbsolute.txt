@@ -1,0 +1,6 @@
+D:\UPC\Ciclo7\ProyectoFinalDSD\SolExamenMedico\TestProject\bin\Release\TestProject.dll.config
+D:\UPC\Ciclo7\ProyectoFinalDSD\SolExamenMedico\TestProject\bin\Release\TestProject.dll
+D:\UPC\Ciclo7\ProyectoFinalDSD\SolExamenMedico\TestProject\bin\Release\TestProject.pdb
+D:\UPC\Ciclo7\ProyectoFinalDSD\SolExamenMedico\TestProject\obj\Release\TestProject.csprojResolveAssemblyReference.cache
+D:\UPC\Ciclo7\ProyectoFinalDSD\SolExamenMedico\TestProject\obj\Release\TestProject.dll
+D:\UPC\Ciclo7\ProyectoFinalDSD\SolExamenMedico\TestProject\obj\Release\TestProject.pdb

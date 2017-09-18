@@ -1,0 +1,5 @@
+D:\UPC\Ciclo7\ProyectoFinalDSD\SolExamenMedico\WcfServices\bin\WcfServices.dll.config
+D:\UPC\Ciclo7\ProyectoFinalDSD\SolExamenMedico\WcfServices\bin\WcfServices.dll
+D:\UPC\Ciclo7\ProyectoFinalDSD\SolExamenMedico\WcfServices\bin\WcfServices.pdb
+D:\UPC\Ciclo7\ProyectoFinalDSD\SolExamenMedico\WcfServices\obj\Debug\WcfServices.dll
+D:\UPC\Ciclo7\ProyectoFinalDSD\SolExamenMedico\WcfServices\obj\Debug\WcfServices.pdb

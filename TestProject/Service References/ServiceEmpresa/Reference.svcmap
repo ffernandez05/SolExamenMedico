@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="94ee352d-4683-447d-8487-af4c0529a5e6" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:27275/ServiceEmpresa.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServiceEmpresa.xsd" MetadataType="Schema" ID="72ca9368-173b-4341-86ee-4ce8d94667f1" SourceId="1" SourceUrl="http://localhost:27275/ServiceEmpresa.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServiceEmpresa1.xsd" MetadataType="Schema" ID="f2fe57e1-35d9-4465-8edf-c4db0f440fa3" SourceId="1" SourceUrl="http://localhost:27275/ServiceEmpresa.svc?xsd=xsd3" />
+    <MetadataFile FileName="ServiceEmpresa2.xsd" MetadataType="Schema" ID="32a60427-8bc3-4a94-958f-cc1bcd92d0fe" SourceId="1" SourceUrl="http://localhost:27275/ServiceEmpresa.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServiceEmpresa3.xsd" MetadataType="Schema" ID="7d8d61be-bbe5-4ecf-9459-b31e0b500b84" SourceId="1" SourceUrl="http://localhost:27275/ServiceEmpresa.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServiceEmpresa.disco" MetadataType="Disco" ID="b39ade6d-9ccb-4e1b-9929-ce5ed58f93c2" SourceId="1" SourceUrl="http://localhost:27275/ServiceEmpresa.svc?disco" />
+    <MetadataFile FileName="ServiceEmpresa.wsdl" MetadataType="Wsdl" ID="12c8e96a-dc27-4abe-8a7e-df64326dd5b5" SourceId="1" SourceUrl="http://localhost:27275/ServiceEmpresa.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

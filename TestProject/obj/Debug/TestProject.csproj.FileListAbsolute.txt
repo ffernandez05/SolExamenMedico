@@ -1,0 +1,5 @@
+D:\UPC\Ciclo7\ProyectoFinalDSD\SolExamenMedico\TestProject\bin\Debug\TestProject.pdb
+D:\UPC\Ciclo7\ProyectoFinalDSD\SolExamenMedico\TestProject\bin\Debug\TestProject.dll.config
+D:\UPC\Ciclo7\ProyectoFinalDSD\SolExamenMedico\TestProject\bin\Debug\TestProject.dll
+D:\UPC\Ciclo7\ProyectoFinalDSD\SolExamenMedico\TestProject\obj\Debug\TestProject.dll
+D:\UPC\Ciclo7\ProyectoFinalDSD\SolExamenMedico\TestProject\obj\Debug\TestProject.pdb

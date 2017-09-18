@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="00373482-b34f-4b2c-8abf-21236ea2dea1" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:27275/ServiceAtencion.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServiceAtencion.xsd" MetadataType="Schema" ID="215600a2-49d4-42fc-b7cc-fe0fcc2d8cca" SourceId="1" SourceUrl="http://localhost:27275/ServiceAtencion.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServiceAtencion1.xsd" MetadataType="Schema" ID="8933b939-8083-4b1b-b5e3-3a0722b23d47" SourceId="1" SourceUrl="http://localhost:27275/ServiceAtencion.svc?xsd=xsd3" />
+    <MetadataFile FileName="ServiceAtencion.wsdl" MetadataType="Wsdl" ID="1d40a34a-4d29-4f93-893b-71b7f8854f8a" SourceId="1" SourceUrl="http://localhost:27275/ServiceAtencion.svc?wsdl" />
+    <MetadataFile FileName="ServiceAtencion2.xsd" MetadataType="Schema" ID="2e8fd8c8-faa8-40f5-9f1d-b19e4c2c7d73" SourceId="1" SourceUrl="http://localhost:27275/ServiceAtencion.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServiceAtencion.disco" MetadataType="Disco" ID="2d9e314f-a1a1-4696-8a38-26ef07253c5e" SourceId="1" SourceUrl="http://localhost:27275/ServiceAtencion.svc?disco" />
+    <MetadataFile FileName="ServiceAtencion3.xsd" MetadataType="Schema" ID="aa98aa7e-b364-4cb9-b12f-461e627ebac8" SourceId="1" SourceUrl="http://localhost:27275/ServiceAtencion.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
